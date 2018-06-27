@@ -1,0 +1,15 @@
+# IntelliJ
+.metadata/
+.idea/
+.recommenders/
+.checkstyle
+.classpath
+.project
+.settings
+.checkstyle
+bin/
+out/
+target/
+
+# Windows
+Thumbs.db
